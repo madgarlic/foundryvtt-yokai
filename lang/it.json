@@ -1,0 +1,22 @@
+{
+  "YOKAI.AbilityStr": "Strength",
+  "YOKAI.AbilityCon": "Constitution",
+  "YOKAI.AbilityDex": "Dexterity",
+  "YOKAI.AbilityInt": "Intelligence",
+  "YOKAI.AbilityWis": "Wisdom",
+  "YOKAI.AbilityCha": "Charisma",
+
+  "YOKAI.AbilityStrAbbr": "str",
+  "YOKAI.AbilityConAbbr": "con",
+  "YOKAI.AbilityDexAbbr": "dex",
+  "YOKAI.AbilityIntAbbr": "int",
+  "YOKAI.AbilityWisAbbr": "wis",
+  "YOKAI.AbilityChaAbbr": "cha",
+
+  "YOKAI.EffectCreate": "Create Effect",
+  "YOKAI.EffectToggle": "Toggle Effect",
+  "YOKAI.EffectEdit": "Edit Effect",
+  "YOKAI.EffectDelete": "Delete Effect",
+
+  "YOKAI.Add": "Add"
+}
