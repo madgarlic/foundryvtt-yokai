@@ -11,10 +11,18 @@
   "authors": [{
     "name": "Mario Maria Mario, Daglio, Da Vigevano"
   }],
-  "esmodules": ["module/yokai.mjs"],
-  "styles": ["css/yokai.css"],
-  "scripts": [],
-  "packs": [],
+  "esmodules": [
+    "module/yokai.mjs"
+  ],
+  "styles": [
+    "css/yokai.css"
+  ],
+  "scripts": [
+
+  ],
+  "packs": [
+
+  ],
   "languages": [
     {
       "lang": "it",
@@ -22,13 +30,14 @@
       "path": "lang/it.json"
     }
   ],
-  "gridDistance": 5,
-  "gridUnits": "ft",
+  "gridDistance": 1.5,
+  "gridUnits": "m",
   "primaryTokenAttribute": "health",
-  "secondaryTokenAttribute": "power",
-  "url": "",
-  "manifest": "",
-  "download": "",
-  "license": "LICENSE.txt",
-  "changelog": "CHANGELOG.md"
+  "secondaryTokenAttribute": null,
+  "url": "https://github.com/madgarlic/foundryvtt-yokai/",
+  "background": "systems/yokai/assets/splash-page.jpg",
+  "manifest": "https://github.com/madgarlic/foundryvtt-yokai/master/ststem.json",
+  "download": "https://github.com/madgarlic/foundryvtt-yokai/archive/refs/tags/release-0.1.1.zip",
+  "license": null,
+  "changelog": null
 }
