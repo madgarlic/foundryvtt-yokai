@@ -36,7 +36,7 @@
   "secondaryTokenAttribute": null,
   "url": "https://github.com/madgarlic/foundryvtt-yokai/",
   "background": "systems/yokai/assets/splash-page.jpg",
-  "manifest": "https://github.com/madgarlic/foundryvtt-yokai/master/ststem.json",
+  "manifest": "https://github.com/madgarlic/foundryvtt-yokai/blob/main/system.json",
   "download": "https://github.com/madgarlic/foundryvtt-yokai/archive/refs/tags/release-0.1.1.zip",
   "license": null,
   "changelog": null
