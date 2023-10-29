@@ -35,10 +35,15 @@ Hooks.once('init', async function() {
   };
 
   // Define custom Document classes
+  // Because your system will define its own actor and item document classes,
+  // you need to override their CONFIG setting to utilize them.
   CONFIG.Actor.documentClass = YokaiActor;
   CONFIG.Item.documentClass = YokaiItem;
 
   // Register sheet application classes
+  // Foundry defines a general ActorSheet and ItemSheet class by default,
+  // so we need to unregister those sheets and instead register our own sheet classes.
+  // You can register as many sheets as you like, and modules can also register their own sheets.
   Actors.unregisterSheet("core", ActorSheet);
   Actors.registerSheet("yokai", YokaiActorSheet, { makeDefault: true });
   Items.unregisterSheet("core", ItemSheet);
