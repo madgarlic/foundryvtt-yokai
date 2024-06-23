@@ -26,13 +26,13 @@
         }
       },
       "abilities": {
-        "str": {
+        "for": {
           "value": 10
         },
-        "dex": {
+        "agi": {
           "value": 10
         },
-        "con": {
+        "res_fis": {
           "value": 10
         },
         "int": {
@@ -41,13 +41,13 @@
         "cre": {
           "value": 10
         },
-        "cha": {
+        "asc": {
           "value": 10
         },
-        "arcn": {
+        "padr_arc": {
           "value": 10
         },
-        "arcn_res": {
+        "res_arc": {
           "value": 10
         }
       }
