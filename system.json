@@ -2,7 +2,7 @@
   "id": "yokai",
   "title": "Yokai!",
   "description": "The Yokai! system for FoundryVTT!",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "compatibility": {
     "minimum": 11,
     "verified": "11.313",
