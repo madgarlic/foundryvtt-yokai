@@ -9,7 +9,7 @@
     "maximum": 12
   },
   "authors": [{
-    "name": "Mario Maria Mario, Daglio, Da Vigevano"
+    "name": "Mario Daglio"
   }],
   "esmodules": [
     "module/yokai.mjs"
@@ -36,8 +36,8 @@
   "secondaryTokenAttribute": null,
   "url": "https://github.com/madgarlic/foundryvtt-yokai/",
   "background": "systems/yokai/assets/splash-page.jpg",
-  "manifest": "https://github.com/madgarlic/foundryvtt-yokai/blob/main/system.json",
-  "download": "https://github.com/madgarlic/foundryvtt-yokai/archive/refs/tags/release-0.1.1.zip",
+  "manifest": "https://raw.githubusercontent.com/madgarlic/foundryvtt-yokai/main/system.json",
+  "download": "https://github.com/madgarlic/foundryvtt-yokai/archive/refs/tags/release-0.1.2.zip",
   "license": null,
   "changelog": null
 }
