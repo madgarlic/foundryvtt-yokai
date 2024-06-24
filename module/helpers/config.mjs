@@ -5,19 +5,23 @@ export const YOKAI = {};
  * @type {Object}
  */
  YOKAI.abilities = {
-  "str": "YOKAI.AbilityStr",
-  "dex": "YOKAI.AbilityDex",
-  "con": "YOKAI.AbilityCon",
+  "for": "YOKAI.AbilityFor",
+  "agi": "YOKAI.AbilityAgi",
+  "res_fis": "YOKAI.AbilityResFis",
   "int": "YOKAI.AbilityInt",
-  "wis": "YOKAI.AbilityWis",
-  "cha": "YOKAI.AbilityCha"
+  "cre": "YOKAI.AbilityCre",
+  "asc": "YOKAI.AbilityAsc",
+  "padr_arc": "YOKAI.AbilityPadrArc",
+  "res_arc": "YOKAI.AbilityResArc"
 };
 
 YOKAI.abilityAbbreviations = {
-  "str": "YOKAI.AbilityStrAbbr",
-  "dex": "YOKAI.AbilityDexAbbr",
-  "con": "YOKAI.AbilityConAbbr",
+  "for": "YOKAI.AbilityForAbbr",
+  "agi": "YOKAI.AbilityAgiAbbr",
+  "res_fis": "YOKAI.AbilityResFisAbbr",
   "int": "YOKAI.AbilityIntAbbr",
-  "wis": "YOKAI.AbilityWisAbbr",
-  "cha": "YOKAI.AbilityChaAbbr"
+  "cre": "YOKAI.AbilityCreAbbr",
+  "asc": "YOKAI.AbilityAscAbbr",
+  "padr_arc": "YOKAI.AbilityPadrArcAbbr",
+  "res_arc": "YOKAI.AbilityResArcAbbr"
 };
